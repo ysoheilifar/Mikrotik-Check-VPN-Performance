@@ -17,5 +17,6 @@ This script simplifies the configuration of L2TP, SSTP, and ZeroTier VPN interfa
 
 3. **Run the Script:**
    In the MikroTik terminal, run the following command:
-   ```bash
+```bash
    /import vpn-performance-script.rsc
+```
