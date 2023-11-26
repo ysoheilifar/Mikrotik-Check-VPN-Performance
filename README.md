@@ -18,8 +18,8 @@ This script simplifies the configuration of L2TP, SSTP, and ZeroTier VPN interfa
 3. **Run the Script:**
    In the MikroTik terminal, run the following command:
 ```bash
-   /import vpn-performance-script.rsc
-   /import vpn-check.rsc
+/import vpn-performance-script.rsc
+/import vpn-check.rsc
 ```
 4. **Schedule the Script:**
 ```bash
