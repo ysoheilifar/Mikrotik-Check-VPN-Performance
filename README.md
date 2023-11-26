@@ -1,4 +1,4 @@
-# Mikrotik-Check-VPN-Performance
+# Mikrotik Check VPN Performance
 
 This script simplifies the configuration of L2TP, SSTP, and ZeroTier VPN interfaces on MikroTik routers. It enforces a specific naming convention for VPN interfaces and hardcodes the ZeroTier private IP. Follow the instructions below to set up your VPN interfaces.
 
