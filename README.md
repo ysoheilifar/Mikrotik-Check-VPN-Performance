@@ -10,7 +10,7 @@ This script simplifies the configuration of L2TP, SSTP, and ZeroTier VPN interfa
 ## Usage
 
 1. **Download the Script:**
-   Download the `vpn-config-script.rsc` script from this repository.
+   Download the `vpn-config-script.rsc` and `vpn-check.rsc` script from this repository.
 
 2. **Upload Script to MikroTik:**
    Use Winbox or SCP to upload the script to your MikroTik router.
